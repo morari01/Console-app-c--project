@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\ARINA_MOROZOVA_S22931.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\ARINA_MOROZOVA_S22931.dir/objects.a @CMakeFiles\ARINA_MOROZOVA_S22931.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\ARINA_MOROZOVA_S22931.dir/objects.a -Wl,--no-whole-archive  -o ARINA_MOROZOVA_S22931.exe -Wl,--out-implib,libARINA_MOROZOVA_S22931.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ARINA_MOROZOVA_S22931.dir\linklibs.rsp

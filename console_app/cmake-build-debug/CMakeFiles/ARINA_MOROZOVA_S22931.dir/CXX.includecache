@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Arina/CLionProjects/console_app/all_functions.h
+fstream
+-
+algorithm
+-
+dir.h
+-
+conio.h
+-
+set
+-
+sstream
+-
+help.h
+C:/Users/Arina/CLionProjects/console_app/help.h
+
+C:/Users/Arina/CLionProjects/console_app/help.h
+fstream
+-
+algorithm
+-
+dir.h
+-
+conio.h
+-
+
+C:/Users/Arina/CLionProjects/console_app/main.cpp
+iostream
+-
+vector
+-
+help.h
+C:/Users/Arina/CLionProjects/console_app/help.h
+all_functions.h
+C:/Users/Arina/CLionProjects/console_app/all_functions.h
+
